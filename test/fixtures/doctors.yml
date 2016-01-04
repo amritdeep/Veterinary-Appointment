@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  address: MyString
+  city: MyString
+  state: MyString
+  zip: 1
+  degree_received_dt: 2016-01-04
+  year_in_practice: 1
+
+two:
+  name: MyString
+  address: MyString
+  city: MyString
+  state: MyString
+  zip: 1
+  degree_received_dt: 2016-01-04
+  year_in_practice: 1
